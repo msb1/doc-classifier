@@ -1,5 +1,5 @@
-<h4>doc-classifier</h4>
-<h5>Deep learning NLP document classifier with test financial document dataset</h5>
+<h2>doc-classifier</h2>
+<h5>Deep learning NLP document classifier with test document dataset</h5>
 <ol>
 <li>Dataset for train/test contains hashed values for each word in each document. The hashing function is unknown to the document classifer.</li>
 <li>Since hashed words are used, a word vector model with pre-trained embeddings cannot be used (e.g. Glove, Spacy, Bert)</li>
