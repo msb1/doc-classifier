@@ -1,4 +1,4 @@
-<h2>doc-classifier</h2>
+<h2>nlp-doc-classifier</h2>
 <h5>Deep learning NLP document classifier with test document dataset</h5>
 <ol>
 <li>Dataset for train/test contains hashed values for each word in each document. The hashing function is unknown to the document classifer.</li>
