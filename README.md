@@ -10,6 +10,6 @@
 <li>3 layer separable CNN with Batch Normalization, dropout and L2 regularization</li>
 <li>BiLSTM with dropout and L2 regularization
 </ul></li>
-<li>Both models achieved very good results and were verified with 5-fold cross validation<li>
+<li>Both models achieved very good results and were verified with 5-fold cross validation</li>
 <li>A test program notebook is also included for the separable CNN model that shows probablities for each class</li>
 </ol>
