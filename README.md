@@ -1,5 +1,3 @@
-# nlp
- NLP Representative Example Projects
 <h2>nlp-doc-classifier</h2>
 <h5>Deep learning NLP document classifier with test document dataset</h5>
 <ol>
